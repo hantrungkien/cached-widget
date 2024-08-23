@@ -1,4 +1,4 @@
-name: stream_typewriter_text
+name: cached_widget
 description: "Stream Typewriter Text is a Flutter package that provides a typewriter text animation effect."
 version: 1.0.8
 repository: https://github.com/hantrungkien/stream-typewriter-text
